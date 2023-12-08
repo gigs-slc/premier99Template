@@ -1,0 +1,15 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "paths": {
+      "src": ["./src"],
+      "shared": ["./src/shared"],
+      "components": ["./src/shared/Components"],
+      "screens": ["./src/screens"],
+      "assets": ["./src/assets"],
+      "theme": ["./src/shared/Theme/theme"],
+      "routes": ["./src/routes"],
+      "types": ["./src/types"]
+    }
+  }
+}
