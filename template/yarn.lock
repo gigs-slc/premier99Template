@@ -6024,7 +6024,7 @@ react@18.2.0:
   dependencies:
     loose-envify "^1.1.0"
 
-reactotron-core-client@2.8.11:
+reactotron-core-client@2.8.11, reactotron-core-client@^2.8.11:
   version "2.8.11"
   resolved "https://registry.yarnpkg.com/reactotron-core-client/-/reactotron-core-client-2.8.11.tgz#93c7d9c0038704c22b0e9d1e6de54e1578051442"
   integrity sha512-zoqKrAqWjTPpa1s1AtVZPZItYE8Kjgs99v9gcKMCW2Ejcba9fYOoRCwu0zqoHU8iWyBzJsOWVai0FdRVRUHf8Q==
@@ -6036,7 +6036,7 @@ reactotron-core-contract@0.1.1:
   resolved "https://registry.yarnpkg.com/reactotron-core-contract/-/reactotron-core-contract-0.1.1.tgz#3fc0e72e17a71c830c752985b5d2a5dd3df79166"
   integrity sha512-NmmojG6Pz97NJe8ov0oZgIxxaaEkXsVAiFOeFTI4QH03qMqAs6d28nUd5bTrKLipxWy5rPr4PXITE7AHdT0kaw==
 
-reactotron-react-native@^5.0.3:
+reactotron-react-native@^5.0.4:
   version "5.0.4"
   resolved "https://registry.yarnpkg.com/reactotron-react-native/-/reactotron-react-native-5.0.4.tgz#4bff2e74f2a99bf4963db130a6b392036bd90130"
   integrity sha512-Ho5PXLtF4GirFzhjdzbVgRk9Idf3woK5c9Cx1lVdYMVb96kzUMlzn2qCD7H6t/yjIFik9LM/3ncWWNHacVySNg==
